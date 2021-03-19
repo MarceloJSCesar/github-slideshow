@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+## Learning Git and Github so deep through books and GitHub Official Course
 Use the left arrow to go back!
